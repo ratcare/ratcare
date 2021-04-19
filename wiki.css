@@ -3,8 +3,8 @@
   width: 200px;
   position: fixed; /* fixed + no scroll */
   z-index: 1; 
-  top: 0; 
-  left: 0;
+  top: 10px; 
+  left: 10px;
   background-color: #0077CB; 
   overflow-x: hidden; /* disable horizontal scroll */
   padding-top: 5px;
@@ -24,6 +24,12 @@
 /* link hover */
 .sidenav a:hover {
   color: #6CC4FF;
+}
+
+/* page content */
+.stuff {
+  margin-left: 160px;
+  padding: 0 10px;
 }
 
 body {
