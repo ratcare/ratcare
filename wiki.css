@@ -1,21 +1,21 @@
-/* sidebar                                  */
+/* sidebar */
 .sidenav {
   width: 200px;
-  position: fixed; 
+  position: fixed; /* fixed + no scroll */
   z-index: 1; 
   top: 0; 
   left: 0;
-  background-color: #0077C8; 
+  background-color: #0077CB; 
   overflow-x: hidden; /* disable horizontal scroll */
-  padding-top: 5px;
+  padding-top: 20px;
 }
 
-/* nav menu links */
+/* nav menu links one */
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-family: Arial;
-  font-size: 20px;
+  font-size: 25px;
   color: #ffffff;
   display: block;
 }
