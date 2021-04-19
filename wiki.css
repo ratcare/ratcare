@@ -1,0 +1,27 @@
+/* sidebar                                  */
+.sidenav {
+  height: 100%; /* fixed full height */
+  width: 200px;
+  position: fixed; /* fixed + no scroll */
+  z-index: 1; 
+  top: 0; 
+  left: 0;
+  background-color: #f0f2ff; 
+  overflow-x: hidden; /* disable horizontal scroll */
+  padding-top: 20px;
+}
+
+/* nav menu links */
+.sidenav a {
+  padding: 6px 8px 6px 16px;
+  text-decoration: none;
+  font-family: Arial;
+  font-size: 25px;
+  color: #ffffff;
+  display: block;
+}
+
+/* link hover */
+.sidenav a:hover {
+  color: #8867f5;
+}
