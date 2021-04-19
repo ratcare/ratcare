@@ -20,12 +20,6 @@
   display: block;
 }
 
-/* nav gifs/icons */
-.sidenav img {
-  padding: 6px 8px 6px 16px;
-  display: block;
-}
-
 /* link hover */
 .sidenav a:hover {
   color: #6CC4FF;
