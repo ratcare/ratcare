@@ -12,12 +12,12 @@
 
 /* nav menu links */
 .sidenav a {
-  padding: 5px 8px 6px 0;
+  padding: 6px 8px 6px 16px;
   text-decoration: none;
   font-family: Arial;
   font-size: 15px;
   color: #ffffff;
-  display: inline-block;
+  display: block;
 }
 
 /* link hover */
