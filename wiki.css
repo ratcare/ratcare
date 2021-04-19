@@ -1,7 +1,7 @@
 /* sidebar */
 .sidenav {
   width: 200px;
-  position: fixed; /* fixed + no scroll */
+  position: fixed; 
   z-index: 1; 
   top: 20px; 
   left: 20px;
