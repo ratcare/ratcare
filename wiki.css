@@ -5,7 +5,7 @@
   z-index: 1; 
   top: 0; 
   left: 0;
-  background-color: #f0f2ff; 
+  background-color: #0077C8; 
   overflow-x: hidden; /* disable horizontal scroll */
   padding-top: 20px;
 }
@@ -22,7 +22,7 @@
 
 /* link hover */
 .sidenav a:hover {
-  color: #8867f5;
+  color: #B5E1FF;
 }
 
 body {
