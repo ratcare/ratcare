@@ -1,6 +1,5 @@
 /* sidebar                                  */
 .sidenav {
-  height: 100%; /* fixed full height */
   width: 200px;
   position: fixed; /* fixed + no scroll */
   z-index: 1; 
