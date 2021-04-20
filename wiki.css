@@ -35,17 +35,4 @@ body {
   background-color: #000000;
 }
 
-.page {
-  height: 200px;
-  width: 500px;
-  z-index: 1; 
-  top: 20px; 
-  left: 20px;
-  background-color: #FFFFFF; 
-  overflow-x: hidden; /* disable horizontal scroll */
-  padding-top: 5px;
-  padding-bottom: 5px;
-  margin-left: 250px;
-}
-
 
