@@ -29,10 +29,6 @@
 /* page content */
 .stuff {
   margin-left: 250px;
-  width: 100px;
-  height: 100px;
-  padding: 20px 20px 20px 20px;
-  background-color: white;
 }
 
 }
@@ -42,12 +38,13 @@ body {
   background-color: black;
 }
 
-/* .box {
+.box {
   width: 100px;
   height: 100px;
+  padding: 20px 20px 20px 20px;
   background-color: white;
 }
-*/
+
 
 
 
