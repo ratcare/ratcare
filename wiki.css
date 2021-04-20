@@ -35,7 +35,7 @@ body {
   background-color: #000000;
 }
 
-/* right blinkie bar */
+/* blinkie bar */
 .sidebar {
   width: 200px;
   position: fixed; 
@@ -46,3 +46,6 @@ body {
   padding-bottom: 5px;
 }
 
+.sidebar img {
+  display: block;
+}
