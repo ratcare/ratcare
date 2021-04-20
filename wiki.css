@@ -39,8 +39,8 @@ body {
 .sidebar {
   width: 200px;
   position: fixed; 
-  top: 20px; 
-  right: 20px;
+  top: 200px; 
+  left: 20px;
   overflow-x: hidden; 
   padding-top: 5px;
   padding-bottom: 5px;
