@@ -35,11 +35,16 @@ body {
   background-color: #000000;
 }
 
-.stuff p {
-  font-family: arial;
-  text-color: #FFFFFF;
+.page {
+  height: 100px;
+  width: 200px;
+  z-index: 1; 
+  top: 20px; 
+  left: 20px;
+  background-color: #FFFFFF; 
+  overflow-x: hidden; /* disable horizontal scroll */
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
-
-
 
 
