@@ -38,7 +38,7 @@ body {
 /* blinkie bar */
 .sidebar {
   width: 200px;
-   z-index: 1;
+  z-index: 1;
   top: 500px; 
   left: 20px;
   overflow-x: hidden; 
