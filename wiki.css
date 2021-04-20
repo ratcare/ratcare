@@ -1,4 +1,3 @@
-/* sidebar */
 .sidenav {
   width: 200px;
   position: fixed; 
@@ -33,7 +32,7 @@
 
 /* page */
 body {
-  background-color: black;
+  background-color: #000000;
 }
 
 
