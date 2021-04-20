@@ -41,7 +41,6 @@ body {
   position: fixed; 
   top: 20px; 
   right: 20px;
-  float: right;
   overflow-x: hidden; 
   padding-top: 5px;
   padding-bottom: 5px;
