@@ -39,7 +39,7 @@ body {
 .sidebar {
   width: 200px;
   position: fixed; 
-  top: 200px; 
+  top: 500px; 
   left: 20px;
   overflow-x: hidden; 
   padding-top: 5px;
