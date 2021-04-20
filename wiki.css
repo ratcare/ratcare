@@ -36,8 +36,8 @@ body {
 }
 
 .page {
-  height: 100px;
-  width: 200px;
+  height: 200px;
+  width: 500px;
   z-index: 1; 
   top: 20px; 
   left: 20px;
@@ -45,6 +45,7 @@ body {
   overflow-x: hidden; /* disable horizontal scroll */
   padding-top: 5px;
   padding-bottom: 5px;
+  margin-left: 250px;
 }
 
 
